@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/markov-chain-example/static/js/main.d34b61df.chunk.js",
+    "main.js.map": "/markov-chain-example/static/js/main.d34b61df.chunk.js.map",
+    "runtime-main.js": "/markov-chain-example/static/js/runtime-main.e1fc0020.js",
+    "runtime-main.js.map": "/markov-chain-example/static/js/runtime-main.e1fc0020.js.map",
+    "static/js/2.8c25b709.chunk.js": "/markov-chain-example/static/js/2.8c25b709.chunk.js",
+    "static/js/2.8c25b709.chunk.js.map": "/markov-chain-example/static/js/2.8c25b709.chunk.js.map",
+    "index.html": "/markov-chain-example/index.html",
+    "static/js/2.8c25b709.chunk.js.LICENSE.txt": "/markov-chain-example/static/js/2.8c25b709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1fc0020.js",
+    "static/js/2.8c25b709.chunk.js",
+    "static/js/main.d34b61df.chunk.js"
+  ]
+}
