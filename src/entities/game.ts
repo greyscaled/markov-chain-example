@@ -11,7 +11,7 @@ const p8 = 1 / 8;
 const GAME_PROBABILITIES = [
   [p0, p3, p0, p3, p3, p0, p0, p0, p0], // 0
   [p5, p0, p5, p5, p5, p5, p0, p0, p0], // 1
-  [p0, p3, p0, p3, p3, p0, p0, p0, p0], // 2
+  [p0, p3, p0, p0, p3, p3, p0, p0, p0], // 2
 
   [p5, p5, p0, p0, p5, p0, p5, p5, p0], // 3
   [p8, p8, p8, p8, p0, p8, p8, p8, p8], // 4
