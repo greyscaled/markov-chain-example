@@ -2,6 +2,7 @@
   "name": "markov-chain-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vapurrmaid.ca/markov-chain-example",
   "dependencies": {
     "@vapurrmaid/markov-chain": "^0.4.2",
     "react": "^17.0.1",
