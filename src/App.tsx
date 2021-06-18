@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { GameGrid } from "./components/GameGrid";
 import { Header } from "./components/Header";
 import { Layout } from "./components/Layout";
-import { Game } from "./entities/game";
+import { Game, GameValues } from "./entities/game";
 
 export const App: React.FC = () => {
   useEffect(() => {
